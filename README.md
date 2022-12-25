@@ -1,5 +1,3 @@
-# ReactProjects
-Diverse projects on react
+#Namaste React
 
-# Projects
-Each branch contains different projects, you can clone them directly based on your needs
+Branch which contains Namaste React Course's Assignments and Notes.
