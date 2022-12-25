@@ -1,0 +1,31 @@
+1. What is Emmet?
+- Helps you write HTML and CSS faster by using simple abbreviations that are then converted into code blocks.
+
+2. Difference between a Library and Framework?
+Library :
+- When using a library, the programmer decides when and where to call it.
+
+FrameWork :
+- It provides the basic framework and tells the programmer what is needed. Accordingly, the necessary code is inserted by the developer and supplements the framework according to the desired function. In the end, however, it is the framework that calls up the code when it needs it and is also responsible for the running of the programme.
+
+3. What is CDN? Why do we use it?
+- A CDN is a network of servers that distributes content from an “origin” server throughout the world by caching content close to where each end user is accessing the internet via a web-enabled device. The content they request is first stored on the origin server and is then replicated and stored elsewhere as needed.
+- By having servers that cache content close to the location(s) of end users, CDNs minimize latency, speeding up load times for websites, applications, and downloads.
+
+4. Why is React known as React?
+- Since React is a front-end framework or the “View” in MVC, this means that as the user clicks around and changes the app’s data, the view should “react” or change with those user events. User events being mouse clicks, typing, submitting a form.
+
+5. What is crossorigin in script tag?
+- Web pages often make requests to load resources on other servers. Here is where CORS comes in.
+- A cross-origin request is a request for a resource (e.g. style sheets, iframes, images, fonts, or scripts) from another domain.
+
+6. What is diference between React and ReactDOM? 
+- React library is responsible for creating views and ReactDOM library is responsible to actually render UI in the browser.
+- ReactDOM helps React to manipulate DOM, helping React to add, remove or modify elements
+
+7. What is difference between react.development.js and react.production.js files via CDN?
+- development.js is not minified code, size is big compared to production.js and also development.js helps developers to debug React code incase they face an issue.
+
+8. What is async and defer?
+- Refer Screenshot "Async and Defer"
+
